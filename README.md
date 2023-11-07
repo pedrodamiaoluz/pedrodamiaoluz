@@ -1,13 +1,19 @@
 ## Olá! Eu sou o Pedro Damião 🖐️
 
+Cursando: BTI(Bacharelado em Tecnologia da Informação), Na UFERSA (Universidade Federal do Semiarido).
+
+Estudando: HTML,css e JavaScript
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/#2696)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/pedrodamiaoluz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/intercessores_pedro)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/@pedroluzzz28)
 
-   ![pedrodamiaoluz GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact)
-
+<div style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
