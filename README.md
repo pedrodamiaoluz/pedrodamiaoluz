@@ -6,6 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/@pedroluzzz28)
 
    ![pedrodamiaoluz GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
