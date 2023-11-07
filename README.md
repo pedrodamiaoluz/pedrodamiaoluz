@@ -24,3 +24,7 @@ Estudando: HTML,css e JavaScript
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+![Snake animation](https://github.com/pedrodamiaoluz/pedrodamiaoluz/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=pedrodamiaoluz&repo=pedrodamiaoluz&theme=react)](https://github.com/pedrodamiaoluz/pedrodamiaoluz)
