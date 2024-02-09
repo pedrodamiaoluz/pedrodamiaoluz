@@ -4,7 +4,7 @@
 </h1>
 Cursando: BTI(Bacharelado em Tecnologia da Informação), Na UFERSA (Universidade Federal do Semiarido).
 
-Estudando: HTML,css e JavaScript
+Estudando: HTML, CSS e JavaScript
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/pedroluz2697)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/pedrodamiaoluz)
