@@ -11,10 +11,9 @@ Estudando: HTML, CSS e JavaScript
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/intercessores_pedro)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/@pedroluzzz28)
 
-<div align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=10&theme=dracula"/>
-</div>
+| GitHub Stats | Linguagens |
+|-------------|-----------|
+| <img src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=10&theme=dracula"/> |
 
 
   
