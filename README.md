@@ -44,6 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodamiaoluz&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&theme=dracula"/>
 </p>
 
 ---
