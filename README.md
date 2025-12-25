@@ -42,9 +42,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=8&theme=dracula"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodamiaoluz&theme=dracula"/>
 </p>
 
 ---
