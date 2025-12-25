@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="start">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
