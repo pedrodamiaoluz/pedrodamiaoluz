@@ -12,9 +12,10 @@ Estudando: HTML, CSS e JavaScript
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/@pedroluzzz28)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=10&theme=dracula"/>
 </div>
+
 
   
 ## Tecnologias que eu uso no meu dia a dia!!!
