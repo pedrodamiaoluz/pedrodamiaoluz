@@ -23,7 +23,7 @@
 
 ## 🌐 Onde me encontrar
 
-<p align="end">
+<p align="start">
   <a href="https://discord.com/pedroluz2697">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=8&theme=dracula"/>
 </p>
@@ -51,7 +51,7 @@
 
 ## 🛠️ Tecnologias que uso no dia a dia
 
-<p align="end">
+<p align="start">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
