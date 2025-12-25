@@ -11,11 +11,7 @@ Estudando: HTML, CSS e JavaScript
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/intercessores_pedro)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/@pedroluzzz28)
 
-| GitHub Stats | Linguagens |
-|-------------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=10&theme=dracula"/> |
-
-
+<div style="display: inline_block"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&langs_count=16&theme=dracula"/> </div>
   
 ## Tecnologias que eu uso no meu dia a dia!!!
 
