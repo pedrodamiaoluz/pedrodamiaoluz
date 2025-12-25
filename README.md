@@ -1,14 +1,14 @@
 # 👋 Olá! Eu sou o Pedro Damião
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+TI+na+UFERSA;Apaixonado+por+Tecnologia+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Bem-vindo+ao+meu+GitHub!;Apaixonado+por+Tecnologia+🚀" />
 </p>
 
 ---
 
 ## 🎓 Sobre mim
 
-🎓 **Bacharelando em Tecnologia da Informação (BTI)**  
+🎓 **Bacharel em Tecnologia da Informação (BTI)**  
 🏫 **UFERSA – Universidade Federal do Semiárido**
 
 💻 Atualmente estudando:
@@ -23,7 +23,7 @@
 
 ## 🌐 Onde me encontrar
 
-<p align="center">
+<p align="end">
   <a href="https://discord.com/pedroluz2697">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
@@ -51,7 +51,7 @@
 
 ## 🛠️ Tecnologias que uso no dia a dia
 
-<p align="center">
+<p align="end">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
