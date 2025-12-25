@@ -43,7 +43,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/pedrodamiaoluz?template=classic&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodamiaoluz&layout=compact&theme=dracula"/>
 </p>
 
