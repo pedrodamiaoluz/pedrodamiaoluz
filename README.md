@@ -38,7 +38,6 @@
 
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrodamiaoluz&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodamiaoluz&theme=dracula"/>
 </p>
 
 ---
